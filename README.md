@@ -52,7 +52,7 @@ Open AQ & similar APIs
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/airspy.git
+git clone https://github.com/def-vikram04/airspy.git
 cd airspy
 pip install -r requirements.txt
 ▶️ Run the App Locally
