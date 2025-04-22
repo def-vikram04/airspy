@@ -89,13 +89,10 @@ Region-wise AQI Modeling	❌	✅
 Pollutant-wise Classification	Limited	✅
 Weighted Intelligence	❌	✅
 👨‍💻 Authors
-Arka Ghosh (EE2018/020)
-
-Sayan Dalui (EE2018/022)
-
-Bhaswati Chakraborty (EE2018/052)
-
-Srija Basu (EE2018/057)
+Abhishek Y
+Sanjay GV 
+Vikas gowda 
+Vikram S
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
